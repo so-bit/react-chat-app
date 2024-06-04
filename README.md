@@ -1,9 +1,12 @@
 # Link of project
 
-**Click the link to actually use the chat app in send messages in real-time. Autheticate with your gmail account. Share with your friends.**
-[React-Chat-App](https://react-chat-app-3c139.web.app/).
+**Click the link [React-Chat-App](https://react-chat-app-3c139.web.app/) to actually use the chat app in send messages in real-time. \
+Autheticate with your gmail account. \
+Share with your friends.**
 
-![image](https://github.com/so-bit/react-chat-app/assets/65305015/8210a550-ffb4-4fc7-a358-0bde745e6d8c)
+
+![image](https://github.com/so-bit/react-chat-app/assets/65305015/613255b6-a38e-4b6f-892c-7623254b97bd)
+
 
 
 # Getting Started with Create React App
