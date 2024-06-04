@@ -1,5 +1,6 @@
-##Link of project
-**Click the link to actually use the chat app in send messages in real-time. Share with your friends.**
+# Link of project
+
+**Click the link to actually use the chat app in send messages in real-time. Autheticate with your gmail account. Share with your friends.**
 [React-Chat-App](https://react-chat-app-3c139.web.app/).
 
 ![image](https://github.com/so-bit/react-chat-app/assets/65305015/8210a550-ffb4-4fc7-a358-0bde745e6d8c)
